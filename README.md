@@ -8,7 +8,7 @@ Each project demonstrates the complete analytics workflow—from data preprocess
 
 # 📂 Projects Included
 
-## 📈 [Twitter Stock Market Analysis](./Twitter Stock Market Analysis)
+## 📈 [Twitter Stock Market Analysis](./Twitter%20Stock%20Market%20Analysis)
 
 A Python-based exploratory data analysis project that examines Twitter's historical stock market performance using financial data, statistical analysis, and visualizations to uncover trends and market behavior.
 
@@ -22,7 +22,7 @@ A Python-based exploratory data analysis project that examines Twitter's histori
 
 ---
 
-## 🏡 [House Price Prediction using Machine Learning](./House Price Prediction Analysis)
+## 🏡 [House Price Prediction using Machine Learning](./House%20Price%20Prediction%20Analysis)
 
 A project analyses residential property prices using house characteristics such as location, condition, lot area, and construction details. The project covers data preprocessing, feature engineering and exploratory analysis.
 
