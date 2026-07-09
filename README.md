@@ -22,7 +22,7 @@ A Python-based exploratory data analysis project that examines Twitter's histori
 
 ---
 
-## 🏡 [House Price Prediction using Machine Learning](./House%20Price%20Prediction%20Analysis)
+## 🏡 [House Price Prediction Analysis](./House%20Price%20Prediction%20Analysis)
 
 A project analyses residential property prices using house characteristics such as location, condition, lot area, and construction details. The project covers data preprocessing, feature engineering and exploratory analysis.
 
